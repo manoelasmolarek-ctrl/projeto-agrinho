@@ -1,0 +1,44 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*ALTERA A COR DE FUNDO E A FONTE DAS LETRAS*/
+body{
+    background-color: antiquewhite;
+    font-family: sans-serif;
+}
+
+.cabecalho {
+    background-color: tomato;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular'
+}
+
+
+h1 {
+    text-align: center;
+font-size: 50px;
+ padding-top: 20px;
+ padding-bottom: 20px;
+}
+
+/*ALINHA NO CENTRO, ESCOLHE A FONTE, COR DA FONTE TAMANHO DA FONTE E ESPAÇO DO TEXTO EM RELAÇÃo AO ELEMENTO DE BAIXO*/
+
+p {
+    text-align: center;
+    font-family: cursive;
+    color: beige;
+    font-size: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.secao {
+    background-color: brown;
+}
+
+.cards {
+    background-color: black;
+}
